@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group
+
+        android:checkableBehavior="single">
+<item android:id="@+id/status"
+    android:title="status"
+    android:icon="@drawable/ic_statuscorrect"></item>
+
+        <item android:id="@+id/Statistics"
+            android:title="Statistics"
+            android:icon="@drawable/ic_statisticscorrect"></item>
+
+        <item android:id="@+id/Notifications"
+            android:title="Notifications"
+            android:icon="@drawable/ic_notifications"></item>
+
+        <item android:id="@+id/pharmacy"
+            android:title="pharmacy"
+            android:icon="@drawable/ic_pharmacies"></item>
+
+        <item android:id="@+id/Emergency"
+            android:title="Emergency"
+            android:icon="@drawable/ic_emergency"></item>
+
+        <item android:id="@+id/callUs"
+            android:title="Call us"
+            android:icon="@drawable/ic_callus"></item>
+
+        <item android:id="@+id/signOut"
+            android:title="Sign out"
+            android:icon="@drawable/ic_lockout"></item>
+    </group>
+
+
+</menu>
